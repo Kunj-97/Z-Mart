@@ -1,5 +1,6 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+
+
+Z-Mart is a MERN Stack application for a concept based e-commerce website with varied functionalities and frameworks.
 
 To use this application, 
 
@@ -8,9 +9,4 @@ To use this application,
 3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/watch?v=zaWtIkJgah4&t=5569s
 

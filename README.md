@@ -10,6 +10,6 @@ To use this application,
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
 
-![alt text] https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_943/https://www.bocasay.com/wp-content/uploads/2020/03/MERN-stack-1.png
+![Alt text]( https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_943/https://www.bocasay.com/wp-content/uploads/2020/03/MERN-stack-1.png)
 
 
